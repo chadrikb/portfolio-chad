@@ -13,6 +13,7 @@ export default {
         reg: "#54C2E7",
         fonce: "#4BADCF",
       },
+      gris: "#d5d5d5",
     },
     fontFamily: {
       Kalam: ["kalam"],

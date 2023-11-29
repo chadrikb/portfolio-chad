@@ -47,16 +47,15 @@
             />
             <div class="p-6 flex flex-col">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
-                Projet Musée - site Web
+                Bucheron Boréal - site Web
               </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Petit projet réalisé avec Vue.js
+                Premier projet réalisé avec React
               </h1>
               <p class="leading-relaxed mb-3">
-                Petit site web développer à l'aide Vue.js dans le cadre du cours
-                de Web 4. le site web démontre une exposition d'Art avec l'aide
-                de l'API du musée de Harvard. Réalsier en équipe, ce fut ma
-                première utilisation d'un APi
+                Petite application de commande en ligne pour une compagnie
+                fictive. c'était ma première expérience de développement
+                d'application web et de développement d'application mobile web.
               </p>
               <div class="flex items-center flex-wrap cursor-pointer">
                 <a
@@ -83,7 +82,7 @@
                 Tune-up - Site web
               </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Premier projet réalisé avec React et Tailwind
+                Premier gros projet réalisé avec React et Tailwind
               </h1>
               <p class="leading-relaxed mb-3">
                 Premier projet réaliser avec React et Tailwind.css. Le but du
