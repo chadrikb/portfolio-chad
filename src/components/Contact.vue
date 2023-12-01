@@ -1,6 +1,7 @@
 <template>
-  <section class="Contact">
-    <h2 class="titre text-7xl">Contactez moi!</h2>
+  <section class="Contact w-full">
+    <h2 class="titre text-7xl m-auto">Contactez moi!</h2>
+    <p></p>
   </section>
 </template>
 <script></script>
