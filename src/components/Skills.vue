@@ -15,7 +15,7 @@
       <div class="skills flex flex-wrap gap-2 justify-center">
         <!-- Div à répéter -->
         <div class="wrapper-skills bg-gris w-1/5 p-3 rounded flex flex-row place-content-evenly">
-          <img src="png/html-5.png" alt="" class="w-16 h-16" />
+          <img src="" alt="" class="w-16 h-16" />
           <div class="wrapper-name flex flex-col items-center">
             <h2 class="text-3xl font-bold font-courgette">HTML</h2>
             <p class="annee text-center font-Courgette">
