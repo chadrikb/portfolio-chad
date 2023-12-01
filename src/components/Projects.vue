@@ -5,9 +5,9 @@
         <!-- Répétez ce bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/image_test.jpg"
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/img_agro.JPG"
               alt="project" />
-            <div class="p-6 bg-gris">
+            <div class="p-6 bg-bleu-pale">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Agrotourisme Laurentides - Site web
               </h2>
@@ -34,7 +34,7 @@
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden h-full">
             <img class="lg:h-48 md:h-36 w-full object-fit object-center " src="/src/assets/img/svg/logo.svg"
               alt="project" />
-            <div class="p-6 flex flex-col bg-gris">
+            <div class="p-6 flex flex-col bg-bleu-pale">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Bucheron Boréal - site Web
               </h2>
@@ -61,7 +61,7 @@
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
             <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/img_tune_up.jpg"
               alt="project" />
-            <div class="p-6 bg-gris">
+            <div class="p-6 bg-bleu-pale">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Tune-up - Site web
               </h2>
