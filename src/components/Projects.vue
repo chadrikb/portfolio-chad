@@ -5,7 +5,7 @@
         <!-- Répétez ce bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/img_agro.JPG"
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/img_agro.jpg"
               alt="project" />
             <div class="p-6 bg-bleu-pale">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
