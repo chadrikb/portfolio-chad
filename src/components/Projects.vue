@@ -4,14 +4,9 @@
       <div class="flex flex-wrap -m-4">
         <!-- Répétez ce bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
-          <div
-            class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden"
-          >
-            <img
-              class="lg:h-48 md:h-36 w-full object-cover object-center"
-              src="../assets/image_test.jpg"
-              alt="project"
-            />
+          <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/image_test.jpg"
+              alt="project" />
             <div class="p-6">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Agrotourisme Laurentides - Site web
@@ -26,9 +21,8 @@
                 du visuel et de quelques fonctionnalités
               </p>
               <div class="flex items-center flex-wrap cursor-pointer">
-                <a
-                  class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale"
-                  >En savoir plus <i class="las la-arrow-right ml-2"></i>
+                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale">En savoir plus
+                  <i class="las la-arrow-right ml-2"></i>
                   <!-- Icône Line Awesome -->
                 </a>
               </div>
@@ -37,14 +31,9 @@
         </div>
         <!-- Fin du bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
-          <div
-            class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden h-full"
-          >
-            <img
-              class="lg:h-48 md:h-36 w-full object-cover object-center"
-              src="../assets/image_test.jpg"
-              alt="project"
-            />
+          <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden h-full">
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/image_test.jpg"
+              alt="project" />
             <div class="p-6 flex flex-col">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Bucheron Boréal - site Web
@@ -58,9 +47,8 @@
                 d'application web et de développement d'application mobile web.
               </p>
               <div class="flex items-center flex-wrap cursor-pointer">
-                <a
-                  class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale"
-                  >En savoir plus <i class="las la-arrow-right ml-2"></i>
+                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale">En savoir plus
+                  <i class="las la-arrow-right ml-2"></i>
                   <!-- Icône Line Awesome -->
                 </a>
               </div>
@@ -69,14 +57,9 @@
         </div>
         <!-- Fin du bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
-          <div
-            class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden"
-          >
-            <img
-              class="lg:h-48 md:h-36 w-full object-cover object-center"
-              src="../assets/image_test.jpg"
-              alt="project"
-            />
+          <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/image_test.jpg"
+              alt="project" />
             <div class="p-6">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Tune-up - Site web
@@ -91,11 +74,9 @@
                 créer un visuel cohérant et interessant pour l'application
               </p>
               <div class="flex items-center flex-wrap cursor-pointer">
-                <a
-                  href="https://tune-up-musique.netlify.app/"
-                  target="_blank"
-                  class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale"
-                  >En savoir plus <i class="las la-arrow-right ml-2"></i>
+                <a href="https://tune-up-musique.netlify.app/" target="_blank"
+                  class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale">En savoir plus
+                  <i class="las la-arrow-right ml-2"></i>
                   <!-- Icône Line Awesome -->
                 </a>
               </div>
