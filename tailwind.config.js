@@ -15,11 +15,6 @@ export default {
       },
       gris: "#d5d5d5",
     },
-    fontFamily: {
-      Kalam: ["kalam"],
-      Titillium: ["titillium"],
-      Courgette: ["courgette"],
-    },
   },
   plugins: [],
 };

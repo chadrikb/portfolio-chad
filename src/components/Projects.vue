@@ -1,7 +1,14 @@
 <template>
   <section class="text-gray-600 body-font">
+    <div class="wrapper-titre relative flex flex-col mb-8 w-fit m-auto">
+      <h2 class="about inline-block title-font text-8xl font-Kalam w- z-10">
+        Mes Projets
+      </h2>
+      <span class="absolute w-full h-1/4 bg-orange-reg bottom-2 rounded-full z-0 opacity-75 skew-y-1"></span>
+    </div>
     <div class="container px-5 py-24 mx-auto">
       <div class="flex flex-wrap -m-4">
+
         <!-- Répétez ce bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">

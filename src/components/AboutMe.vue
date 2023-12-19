@@ -14,7 +14,7 @@
           </h2>
           <span class="absolute w-full h-1/4 bg-orange-reg bottom-2 rounded-full z-0 opacity-75 skew-y-1"></span>
         </div>
-        <p class="leading-relaxed font-sans text-xl h-1/4 pl-12 text-justify text-right">
+        <p class="leading-relaxed font-sans text-xl h-2/5 pl-12 text-justify text-right">
           Développeur front-end motivé par ma soif d'apprentissage, je me
           développe dans le domaine du web et dans la vie de tout les jours, de
           façon sans limite. J'aime fouiller un peu partout pour peaufiner mes
