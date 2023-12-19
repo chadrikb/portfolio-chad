@@ -1,13 +1,8 @@
 <template>
-  <section class="about-me text-gray-600 body-font h-full">
+  <section class="text-gray-600 body-font h-full" id="AboutMe">
     <div class="container mx-auto flex flex-row py-24 h-full gap-8">
       <img class="w-1/2 mb-10 object-cover object-center rounded" alt="moi" src="/img/jpg/portrait.jpg" />
       <div class="info flex flex-col items-center">
-        <div class="title flex flex-col mb-24">
-          <h2 class="text-7xl text-center uppercase Kalam">Développeur</h2>
-          <span class="text-6xl text-center Kalam">Front-end</span>
-        </div>
-
         <div class="wrapper-titre relative flex flex-col mb-8">
           <h2 class="about inline-block title-font text-6xl w-max z-10 Kalam">
             À propos de moi
@@ -30,7 +25,7 @@
         </div>
         <div class="wrapper-lien-port flex flex-col justify-center items-center">
           <p class="leading-relaxed Titillium text-2xl h-1/4 text-justify mb-5">
-            voici un lien vers mon porfolio!
+            voici un lien vers mon CV!
           </p>
           <a href="/pdf/Chadrik_Bertrand_CV.pdf" target="_blank"
             class="text-6xl hover:text-orange-reg w-fit text-center Courgette">Clique ici!!!</a>

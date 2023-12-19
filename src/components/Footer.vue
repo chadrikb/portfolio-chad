@@ -12,10 +12,11 @@
       <h4 class="text-5xl Kalam">Contactez moi!</h4>
       <h4 class="text-2xl Titillium"><span class="font-bold Kalam">Téléphone:</span> 450-694-1314</h4>
       <h4 class="text-2xl Titillium"><span class="font-bold Kalam">Courriel: </span> Chadrikb@gmail.com</h4>
-      <a href="https://www.linkedin.com/in/chadrik-bertrand/" class="cursor-pointer" target="_blank">
+      <a href="https://www.linkedin.com/in/chadrik-bertrand/" class="cursor-pointer hover:text-orange-reg"
+        target="_blank">
         <h4 class="text-2xl font-bold Kalam">LinkedIn</h4>
       </a>
-      <a href="https://www.pinterest.ca/chadrikb/" class="cursor-pointer" target="_blank">
+      <a href="https://www.pinterest.ca/chadrikb/" class="cursor-pointer hover:text-orange-reg" target="_blank">
         <h4 class="text-2xl font-bold Kalam">Pinterest</h4>
       </a>
     </div>

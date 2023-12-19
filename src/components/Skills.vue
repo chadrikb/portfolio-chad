@@ -1,12 +1,12 @@
 <template>
-  <section class="text-gray-600 body-font">
+  <section class="text-gray-600 body-font" id="Skills">
     <div class="container px-5 py-24 mx-auto">
       <div class="text-center mb-20">
         <div class="wrapper-titre relative flex flex-col mb-8 w-fit m-auto">
           <h2 class="about inline-block title-font text-8xl Kalam w- z-10">
             Mes Compétences
           </h2>
-          <span class="absolute w-full h-1/4 bg-orange-reg bottom-2 rounded-full z-0 opacity-75 skew-y-1"></span>
+          <span class="absolute w-full h-1/4 bg-orange-reg bottom-4 rounded-full z-0 opacity-75 skew-y-1"></span>
         </div>
         <p class="text-2xl leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto Titillium">
           Les technologies et outils que je maîtrise
