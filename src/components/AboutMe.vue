@@ -1,7 +1,7 @@
 <template>
   <section class="text-gray-600 body-font h-full" id="AboutMe">
-    <div class="container mx-auto flex flex-col xl:flex-row py-24 h-full gap-8">
-      <img class="w-full xl:w-1/2 mb-10 object-cover object-center rounded" alt="moi" src="/img/jpg/portrait.jpg" />
+    <div class="container mx-auto flex flex-col lg:flex-row py-24 h-full gap-8">
+      <img class="w-full lg:w-1/2 mb-10 object-cover object-center rounded" alt="moi" src="/img/jpg/portrait.jpg" />
       <div class="info flex flex-col items-center">
         <div class="wrapper-titre relative flex flex-col mb-8">
           <h2 class="about inline-block title-font text-4xl xl:text-6xl w-max z-10 Kalam">
