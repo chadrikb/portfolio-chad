@@ -15,7 +15,7 @@ import AboutMe from "./components/AboutMe.vue";
 import Skills from "./components/Skills.vue";
 import Projects from "./components/Projects.vue";
 import Footer from "./components/Footer.vue";
-import Contact from "./components/Contact.vue";
+// import Contact from "./components/Contact.vue";
 </script>
 
 <style></style>
