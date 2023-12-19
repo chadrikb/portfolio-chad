@@ -47,8 +47,8 @@
                 pour l'instant
               </p>
               <div class="flex items-center flex-wrap cursor-pointer">
-                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale"
-                  href="https://chadrik-buchero-boreal.netlify.app" target="_blank">En savoir plus
+                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale" href="/src/"
+                  target="_blank">En savoir plus
                   <i class="las la-arrow-right ml-2"></i>
                   <!-- Icône Line Awesome -->
                 </a>

@@ -33,7 +33,7 @@
             voici un lien vers mon porfolio!
           </p>
           <a href="/src/assets/pdf/Chadrik_Bertrand_CV.pdf" target="_blank"
-            class="text-6xl hover:text-orange-reg w-fit text-center">Click ici!!!</a>
+            class="text-6xl hover:text-orange-reg w-fit text-center">Clique ici!!!</a>
         </div>
       </div>
     </div>
