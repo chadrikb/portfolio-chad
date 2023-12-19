@@ -9,7 +9,7 @@
         <div
           class="bg-bleu-pale lg:bg-bleu-pale/[.00] w-full p-1 fixed bottom-0 lg:relative lg:w-1/2 lg:flex lg:items-center lg:justify-end z-50">
           <nav class="flex flex-row items-center justify-around lg:justify-end md:flex-1 ">
-            <a @click="scrollToSection('accueil')"
+            <a @click="scrollToSection('Accueil')"
               class="cursor-pointer lg:px-5 py-3 flex items-center lg:text-lg uppercase font-medium leading-snug text-gray-800 hover:text-orange-reg hover:font-bold">Accueil</a>
             <a @click="scrollToSection('AboutMe')"
               class="cursor-pointer lg:px-5 py-3 flex items-center lg:text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">À

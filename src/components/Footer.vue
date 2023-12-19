@@ -1,4 +1,4 @@
-<script></script>
+
 <template>
   <div class="footer py-9 bg-gris">
     <div class="flex flex-col lg:flex-row w-full justify-around items-center py-9 bg-gris">
@@ -26,7 +26,7 @@
     </div>
     <div class="nav hidden xl:flex xl:items-center">
       <nav class="md:flex items-center justify-center md:flex-1 ">
-        <a @click="scrollToSection('accueil')"
+        <a @click="scrollToSection('Accueil')"
           class="cursor-pointer px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:text-orange-reg hover:font-bold">Accueil</a>
         <a @click="scrollToSection('AboutMe')"
           class="cursor-pointer px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">À
@@ -39,3 +39,17 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  name: 'Footer',
+  methods: {
+    scrollToSection(sectionId) {
+      const section = document.getElementById(sectionId);
+
+      if (section) {
+        section.scrollIntoView({ behavior: 'smooth' });
+      }
+    },
+  },
+};
+</script>

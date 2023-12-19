@@ -1,5 +1,5 @@
 <template>
-    <div id="Accueil" class="h-screen w-full">
+    <section id="Accueil" class="h-screen w-full">
         <div class="wrapper-text flex flex-col items-center justify-center h-5/6">
             <h2 class="Kalam text-md xl:text-2xl mb-1">Hi, Bonjour!</h2>
             <h2 class="Kalam text-2xl xl:text-7xl mb-10">Mon Nom est Chadrik</h2>
@@ -10,7 +10,7 @@
             </div>
             <img src="img/svg/arrow-down.svg" alt="" class="w-24 bounce" />
         </div>
-    </div>
+    </section>
 </template>
 <script>
 export default {
