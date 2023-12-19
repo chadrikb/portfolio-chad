@@ -8,6 +8,7 @@
             <div class="wrapper-btn relative flex flex-col mb-8">
                 <button class="Courgette text-3xl z-10" @click="scrollToSection('AboutMe')">Commençons</button>
             </div>
+            <img src="img/svg/arrow-down.svg" alt="" class="w-24 bounce" />
         </div>
     </div>
 </template>
@@ -46,5 +47,29 @@ button::before {
 
 button:hover::before {
     width: 100%;
+}
+
+/* Bounce animation for the image */
+.bounce {
+    animation: bounceAnimation 2s infinite;
+}
+
+@keyframes bounceAnimation {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-10px);
+    }
+
+    60% {
+        transform: translateY(-5px);
+    }
 }
 </style>
