@@ -1,7 +1,7 @@
 <template>
   <section class="about-me text-gray-600 body-font h-full">
     <div class="container mx-auto flex flex-row py-24 h-full gap-8">
-      <img class="w-1/2 mb-10 object-cover object-center rounded" alt="moi" src="/src/assets/img/jpg/portrait.jpg" />
+      <img class="w-1/2 mb-10 object-cover object-center rounded" alt="moi" src="/img/jpg/portrait.jpg" />
       <div class="info flex flex-col items-center">
         <div class="title flex flex-col mb-24">
           <h2 class="text-7xl text-center uppercase">Développeur</h2>
@@ -32,7 +32,7 @@
           <p class="leading-relaxed font-sans text-xl h-1/4 text-justify mb-2">
             voici un lien vers mon porfolio!
           </p>
-          <a href="/src/assets/pdf/Chadrik_Bertrand_CV.pdf" target="_blank"
+          <a href="/pdf/Chadrik_Bertrand_CV.pdf" target="_blank"
             class="text-6xl hover:text-orange-reg w-fit text-center">Clique ici!!!</a>
         </div>
       </div>

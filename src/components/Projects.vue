@@ -5,8 +5,7 @@
         <!-- Répétez ce bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/img_agro.jpg"
-              alt="project" />
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/img/jpg/img_agro.jpg" alt="project" />
             <div class="p-6 bg-bleu-pale">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Agrotourisme Laurentides - Site web
@@ -21,7 +20,8 @@
                 du visuel et de quelques fonctionnalités
               </p>
               <div class="flex items-center flex-wrap cursor-pointer">
-                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale">En savoir plus
+                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale "
+                  href="/pdf/Chadrik_maquette_UX.pdf" target="_blank">En savoir plus
                   <i class="las la-arrow-right ml-2"></i>
                   <!-- Icône Line Awesome -->
                 </a>
@@ -32,8 +32,7 @@
         <!-- Fin du bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden h-full">
-            <img class="lg:h-48 md:h-36 w-full object-fit object-center " src="/src/assets/img/svg/logo.svg"
-              alt="project" />
+            <img class="lg:h-48 md:h-36 w-full object-fit object-center " src="/img/svg/logo.svg" alt="project" />
             <div class="p-6 flex flex-col bg-bleu-pale">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Bucheron Boréal - site Web
@@ -47,8 +46,8 @@
                 pour l'instant
               </p>
               <div class="flex items-center flex-wrap cursor-pointer">
-                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale" href="/src/"
-                  target="_blank">En savoir plus
+                <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 hover:text-orange-pale"
+                  href="/pdf/BERC2037079_UI.pdf" target="_blank">En savoir plus
                   <i class="las la-arrow-right ml-2"></i>
                   <!-- Icône Line Awesome -->
                 </a>
@@ -59,8 +58,7 @@
         <!-- Fin du bloc pour chaque projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/src/assets/img/jpg/img_tune_up.jpg"
-              alt="project" />
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/img/jpg/img_tune_up.jpg" alt="project" />
             <div class="p-6 bg-bleu-pale">
               <h2 class="text-base font-medium text-indigo-500 mb-1">
                 Tune-up - Site web
