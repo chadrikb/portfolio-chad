@@ -8,7 +8,7 @@
             <div class="wrapper-btn relative flex flex-col mb-8">
                 <button class="Courgette text-3xl z-10" @click="scrollToSection('AboutMe')">Commençons</button>
             </div>
-            <img src="img/svg/arrow-down.svg" alt="" class="w-24 bounce" />
+            <img src="/img/svg/arrow-down.svg" alt="" class="w-24 bounce" />
         </div>
     </section>
 </template>
