@@ -1,10 +1,10 @@
 <template>
     <div id="Accueil" class="h-screen w-full">
         <div class="wrapper-text flex flex-col items-center justify-center h-5/6">
-            <h2 class="Kalam text-2xl mb-1">Hi, Bonjour!</h2>
-            <h2 class="Kalam text-7xl mb-10">Mon Nom est Chadrik</h2>
-            <h3 class="Kalam text-6xl mb-9">Je suis un développeur Front-End basé à Montréal.</h3>
-            <h4 class="Kalam text-5xl mb-24">Bienvenue sur mon Portfolio!</h4>
+            <h2 class="Kalam text-md xl:text-2xl mb-1">Hi, Bonjour!</h2>
+            <h2 class="Kalam text-2xl xl:text-7xl mb-10">Mon Nom est Chadrik</h2>
+            <h3 class="Kalam text-center text-xl xl:text-6xl mb-9">Je suis un développeur Front-End basé à Montréal.</h3>
+            <h4 class="Kalam text-xl xl:text-5xl mb-24">Bienvenue sur mon Portfolio!</h4>
             <div class="wrapper-btn relative flex flex-col mb-8">
                 <button class="Courgette text-3xl z-10" @click="scrollToSection('AboutMe')">Commençons</button>
             </div>

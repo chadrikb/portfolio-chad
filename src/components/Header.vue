@@ -1,21 +1,22 @@
 <template>
   <header>
-    <div class="Titillium font-bold">
-      <div class="flex flex-row items-center justify-between mt-5">
-        <div class="">
-          <a href="#" class="px-5 py-3 flex items-center text-5xl Courgette">Mon Portfolio</a>
+    <div class="Titillium font-bold w-full">
+      <div class="flex flex-col lg:flex-row items-center justify-between mt-5">
+        <div class="lg:w-1/2 mb-4 lg:mb-0">
+          <a href="#" class="px-5 py-3 flex items-center text-2xl xl:text-5xl Courgette ">Mon Portfolio</a>
+
         </div>
-        <div class="flex items-center">
+        <div class="hidden lg:w-1/2 lg:flex lg:items-center lg:justify-end">
           <nav class="md:flex items-center justify-end md:flex-1 ">
             <a @click="scrollToSection('accueil')"
-              class="cursor-pointer px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:text-orange-reg hover:font-bold">Accueil</a>
+              class="cursor-pointer lg:px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:text-orange-reg hover:font-bold">Accueil</a>
             <a @click="scrollToSection('AboutMe')"
-              class="cursor-pointer px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">À
+              class="cursor-pointer lg:px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">À
               Propos</a>
             <a @click="scrollToSection('Skills')"
-              class="cursor-pointer px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">Compétences</a>
+              class="cursor-pointer lg:px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">Compétences</a>
             <a @click="scrollToSection('Projects')"
-              class="cursor-pointer px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">Projets</a>
+              class="cursor-pointer lg:px-5 py-3 flex items-center text-lg uppercase font-medium leading-snug text-gray-800 hover:font-bold hover:text-orange-reg">Projets</a>
           </nav>
         </div>
       </div>

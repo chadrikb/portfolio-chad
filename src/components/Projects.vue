@@ -1,7 +1,7 @@
 <template>
   <section class=" text-gray-600 body-font" id="Projects">
     <div class="wrapper-titre relative flex flex-col mb-8 w-fit m-auto">
-      <h2 class="about inline-block title-font text-8xl Kalam w- z-10">
+      <h2 class="about inline-block title-font text-6xl xl:text-8xl Kalam w- z-10">
         Mes Projets
       </h2>
       <span class="absolute w-full h-1/4 bg-orange-reg bottom-4 rounded-full z-0 opacity-75 skew-y-1"></span>
